@@ -1,9 +1,5 @@
 # Hi there 👋, I'm Ananya Srivastava
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?..."/>
-</p>
-
 🎓 First-year B.Tech CSE (AI & ML) student  
 💻 Currently learning C, C++ & Python  
 🚀 Building strong programming & problem-solving skills  
