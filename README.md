@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Ananya Srivastava
 
-🎓 First-year B.Tech CSE (AI & ML) student  
+🎓 B.Tech CSE (AI & ML) student
 💻 Currently learning C, C++ & Python  
-🚀 Building strong programming & problem-solving skills  
+🚀 Focused on strengthening core programming and problem-solving skills
 🔐 Interested in Cybersecurity & AI  
 
 ---
@@ -17,6 +17,7 @@
 
 ## 📫 Connect with me
 - LinkedIn: www.linkedin.com/in/ananyasrivastavaa8
+- - LinkedIn: https://www.linkedin.com/in/ananyasrivastavaa8
 
 ---
 
