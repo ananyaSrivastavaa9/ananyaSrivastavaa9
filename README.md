@@ -26,10 +26,9 @@
 - LinkedIn: www.linkedin.com/in/ananyasrivastavaa8
 
 ---
----
 
 ## 📊 GitHub Stats
 
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight" />
