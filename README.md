@@ -29,6 +29,6 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight" />
+![Profile Views](https://komarev.com/ghpvc/?username=ananyaSrivastavaa9&label=Profile%20views&color=0e75b6&style=flat)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight" />
+![GitHub Streak](https://streak-stats.demolab.com?user=ananyaSrivastavaa9&theme=tokyonight)
