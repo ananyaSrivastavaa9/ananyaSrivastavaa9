@@ -7,24 +7,11 @@
 
 ---
 
-## 🛠️ Skills
-- C Programming
-- C++
-- Python
-- Data Structures
-
 ## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
 </p>
-
----
-
-## 📌 Current Focus
-- Improving DSA in C++
-- Building beginner-friendly projects
-- Learning AI & ML fundamentals
 
 ---
 
