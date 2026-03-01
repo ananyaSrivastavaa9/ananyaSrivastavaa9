@@ -17,6 +17,12 @@
 - Python
 - Data Structures
 
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
+</p>
+
 ---
 
 ## 📌 Current Focus
