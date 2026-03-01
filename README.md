@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ananya Srivastava
 
 🎓 B.Tech CSE (AI & ML) student  
-💻 Working with C, C++ and Python
+💻 Working with C, C++ and Python  
 🚀 Focused on strengthening core programming and problem-solving skills  
 🔐 Interested in Cybersecurity & AI
 
