@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋, I'm Ananya Srivastava
 
-<!--
-**ananyaSrivastavaa9/ananyaSrivastavaa9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.Tech CSE (AI & ML) student  
+💻 Currently learning C, C++ & Python  
+🚀 Building strong programming & problem-solving skills  
+🔐 Interested in Cybersecurity & AI  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- C Programming
+- C++
+- Python
+- Data Structures
+
+---
+
+## 📌 Current Focus
+- Improving DSA in C++
+- Building beginner-friendly projects
+- Learning AI & ML fundamentals
+
+---
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/ananyasrivastavaa8
