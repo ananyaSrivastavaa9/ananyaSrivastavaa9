@@ -28,7 +28,7 @@
 ---
 ## 📊 GitHub Stats
 
-![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ananyaSrivastavaa9&show_icons=true&theme=tokyonight)
+![Ananya's GitHub stats](https://github-readme-stats.vercel.app/api?https://github.com/ananyaSrivastavaa9&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/ananyaSrivastavaa9&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?https://github.com/ananyaSrivastavaa9&layout=compact&theme=tokyonight)
 
