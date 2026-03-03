@@ -15,6 +15,16 @@
 
 ---
 
+## 📚 DSA Progress
+
+- ✅ Arrays — In Progress  
+- 🔜 Strings — Coming Soon  
+- 🔜 Linked List — Coming Soon  
+
+📌 I am consistently solving DSA problems and updating this repository.
+
+---
+
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/ananyasrivastavaa8
 
