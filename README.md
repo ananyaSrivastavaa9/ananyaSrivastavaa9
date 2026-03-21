@@ -14,7 +14,12 @@
 
 ---
 
-## 🧠 What I'm Working On
+## 🧩 Coding Profiles
+- LeetCode: https://leetcode.com/u/ananyasrivastavaa/
+
+---
+
+## 🧠 Currently Learning
 - Solving Data Structures & Algorithms problems  
 - Strengthening core programming concepts  
 - Exploring AI & Machine Learning 
