@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;DSA+Learner;AI+%26+ML+Enthusiast&center=true&width=500&height=50">
+</p>
+
 # Hi there 👋, I'm Ananya Srivastava
 
 🎓 B.Tech CSE (AI & ML) student  
