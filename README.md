@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananyaSrivastavaa9&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 # Hi there 👋, I'm Ananya Srivastava
 
 🎓 B.Tech CSE (AI & ML) student  
@@ -27,6 +23,7 @@
 
 ## 🧩 Coding Profiles
 LeetCode: https://leetcode.com/u/ananyasrivastavaa/
+
 ---
 
 ## 📫 Connect with me
