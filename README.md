@@ -3,7 +3,6 @@
 🎓 B.Tech CSE (AI & ML) student  
 💻 Working with C, C++ and Python  
 🚀 Focused on strengthening core programming and problem-solving skills  
-🔐 Interested in Cybersecurity & AI
 
 ---
 
@@ -15,13 +14,10 @@
 
 ---
 
-## 📚 DSA Progress
-
-- ✅ Arrays — In Progress  
-- 🔜 Strings — Coming Soon  
-- 🔜 Linked List — Coming Soon  
-
-📌 I am consistently solving DSA problems and updating this repository.
+## 🧠 What I'm Working On
+- Solving Data Structures & Algorithms problems  
+- Strengthening core programming concepts  
+- Exploring AI & Machine Learning basics  
 
 ---
 
