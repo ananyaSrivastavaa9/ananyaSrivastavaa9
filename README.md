@@ -22,11 +22,6 @@
 
 ---
 
-## 🧩 Coding Profiles
-- LeetCode: https://leetcode.com/u/ananyasrivastavaa/
-
----
-
 ## 🧠 Currently Learning
 - Solving Data Structures & Algorithms problems  
 - Strengthening core programming concepts  
@@ -36,14 +31,10 @@
 
 ## 🧩 Coding Profiles
 <p align="center">
-  <a href="YOUR_LEETCODE_LINK">
+  <a href= https://leetcode.com/u/ananyasrivastavaa/
     <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
   </a>
-  <a href="YOUR_GFG_LINK">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks" />
-  </a>
-</p>
-
+  
 ---
 
 ## 📫 Connect with me
