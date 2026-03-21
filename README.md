@@ -48,3 +48,10 @@ LeetCode: https://leetcode.com/u/ananyasrivastavaa/
 
 ## ✨ Quote
 > “Stay consistent, results will follow.”
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ananyaSrivastavaa9/ananyaSrivastavaa9/output/snake.svg" />
+</p>
