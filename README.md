@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Engineer;DSA+Learner;AI+%26+ML+Enthusiast&center=true&width=500&height=50">
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ananyaSrivastavaa9&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
