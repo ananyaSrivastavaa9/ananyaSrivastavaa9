@@ -43,10 +43,3 @@ LeetCode: https://leetcode.com/u/ananyasrivastavaa/
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyaSrivastavaa9&theme=tokyo-night" />
 </p>
-
----
-
-## ✨ Quote
-> “Stay consistent, results will follow.”
-
----
