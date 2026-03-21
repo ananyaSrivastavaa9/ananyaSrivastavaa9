@@ -17,7 +17,7 @@
 ## 🧠 What I'm Working On
 - Solving Data Structures & Algorithms problems  
 - Strengthening core programming concepts  
-- Exploring AI & Machine Learning basics  
+- Exploring AI & Machine Learning 
 
 ---
 
