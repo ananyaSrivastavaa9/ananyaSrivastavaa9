@@ -30,11 +30,7 @@
 ---
 
 ## 🧩 Coding Profiles
-<p align="center">
-  <a href= https://leetcode.com/u/ananyasrivastavaa/
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-  
+LeetCode: https://leetcode.com/u/ananyasrivastavaa/
 ---
 
 ## 📫 Connect with me
@@ -59,10 +55,3 @@
 
 ## ✨ Quote
 > “Stay consistent, results will follow.”
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ananyaSrivastavaa9/ananyaSrivastavaa9/output/snake.svg" />
-</p>
