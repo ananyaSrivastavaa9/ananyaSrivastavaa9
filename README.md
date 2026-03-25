@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Ananya Srivastava
 
 🎓 B.Tech CSE (AI & ML) student  
-💻 Building strong foundations in C, C++ & Python  
-🚀 Focused on problem-solving and core programming skills 
+💻 Strong foundation in C, C++ & Python with focus on problem solving  
+🚀 Focused on building core programming skills and logical thinking  
 
 ---
 
@@ -15,9 +15,9 @@
 ---
 
 ## 🧠 Currently Learning
-- Solving Data Structures & Algorithms problems  
-- Strengthening core programming concepts  
-- Exploring AI & Machine Learning 
+- Data Structures & Algorithms (DSA)  
+- Core programming concepts  
+- Fundamentals of AI & Machine Learning  
 
 ---
 
@@ -39,10 +39,6 @@
   C-based system to manage and track traffic violations and penalties  
   🔗 https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50  
 
-- **C++ Mini Projects**  
-  Small programs focused on logic building and core concepts    
-  🔗 https://github.com/ananyaSrivastavaa9/cpp-mini-projects
-
 ---
 
 ## 📚 Practice & Learning
@@ -51,15 +47,15 @@
   Structured Data Structures & Algorithms practice in C++  
 
 - **Python Programming Practice**  
-  Daily Python learning with chapter-wise examples   
+  Daily Python learning with chapter-wise examples  
 
 - **C Programming**  
-  Basic to intermediate programs covering core concepts of C
-  
+  Core concepts and problem-based practice in C  
+
 ---
 
 ## 🧩 Coding Profiles
-LeetCode: https://leetcode.com/u/ananyasrivastavaa/
+- LeetCode: https://leetcode.com/u/ananyasrivastavaa/
 
 ---
 
@@ -74,4 +70,4 @@ LeetCode: https://leetcode.com/u/ananyasrivastavaa/
 
 - Actively practicing DSA  
 - Building consistency in coding  
-- Focused on continuous learning and improvement
+- Focused on continuous learning and improvement  
