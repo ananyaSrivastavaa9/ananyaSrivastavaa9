@@ -21,6 +21,41 @@
 
 ---
 
+## 🚀 Projects
+
+- **SmartDoc AI**  
+  AI-powered document intelligence dashboard with Azure integration  
+  🔗 https://github.com/ananyaSrivastavaa9/SmartDoc-AI  
+
+- **Mini Intrusion Detection System (Mini-IDS)**  
+  Beginner-level cybersecurity project to detect suspicious activities using Python  
+  🔗 https://github.com/ananyaSrivastavaa9/Mini-IDS  
+
+- **Vulnerable Web App Demo**  
+  A deliberately vulnerable web application for learning web security & OWASP concepts  
+  🔗 https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo  
+
+- **Traffic Violation & Penalty System**  
+  C-based system to manage and track traffic violations and penalties  
+
+- - **C++ Mini Projects**  
+  Small programs focused on logic building and core concepts
+
+---
+
+## 📚 Practice & Learning
+
+- **DSA-Cpp**  
+  Structured Data Structures & Algorithms practice in C++  
+
+- **Python Programming Practice**  
+  Daily Python learning with chapter-wise examples   
+
+- **C Programming**  
+  Basic to intermediate programs covering core concepts of C
+  
+---
+
 ## 🧩 Coding Profiles
 LeetCode: https://leetcode.com/u/ananyasrivastavaa/
 
