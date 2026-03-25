@@ -40,7 +40,7 @@
   🔗 https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50  
 
 - **C++ Mini Projects**  
-  Small programs focused on logic building and core concepts
+  Small programs focused on logic building and core concepts    
   🔗 https://github.com/ananyaSrivastavaa9/cpp-mini-projects
 
 ---
