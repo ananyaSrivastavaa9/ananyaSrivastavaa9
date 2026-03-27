@@ -76,8 +76,6 @@
 
 ## 📊 GitHub Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=ananyaSrivastavaa9&label=Profile%20views&color=0e75b6&style=flat)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ananyaSrivastavaa9&theme=tokyonight&hide_border=true)
 
 ---
