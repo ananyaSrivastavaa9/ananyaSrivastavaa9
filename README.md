@@ -25,28 +25,28 @@
 
 🔹 **SmartDoc-AI**  
 Built a web-based AI dashboard to extract and analyze structured data from documents.  
-Tech: HTML, CSS, JavaScript, Azure Document Intelligence  
-🔗 [View Project](https://github.com/ananyaSrivastavaa9/SmartDoc-AI)
+**Tech:** HTML, CSS, JavaScript, Azure Document Intelligence  
+🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/SmartDoc-AI)
 
 🔹 **Student Record Management System**  
 Console-based application to manage student records using C++ and STL.  
-Tech: C++, STL (Vector)  
-🔗 [View Project](https://github.com/ananyaSrivastavaa9/cpp-mini-projects)
+**Tech:** C++, STL (Vector)  
+🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/cpp-mini-projects)
 
 🔹 **Mini Intrusion Detection System (IDS)**  
 Lightweight IDS to monitor network activity and detect threats.  
-Tech: Python  
-🔗 [View Project](https://github.com/ananyaSrivastavaa9/Mini-IDS)
+**Tech:** Python  
+🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Mini-IDS)
 
 🔹 **Vulnerable Web Application (Security Lab)**  
 Designed a vulnerable app to demonstrate cybersecurity flaws like SQL Injection & XSS.  
-Tech: HTML, CSS, JavaScript, PHP  
-🔗 [View Project](https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo)
+**Tech:** HTML, CSS, JavaScript, PHP  
+🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo)
 
 🔹 **Traffic Violation & Penalty Management System**  
 System to manage violations and calculate penalties using file handling.  
-Tech: C, File Handling  
-🔗 [View Project](https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50)
+**Tech:** C, File Handling  
+🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50)
 
 ---
 
