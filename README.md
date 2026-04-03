@@ -20,29 +20,45 @@
 - Fundamentals of AI & Machine Learning  
 
 ---
-
 ## 🚀 Projects
 
-- **SmartDoc-AI | HTML, CSS, JavaScript, Azure Document Intelligence**  
-  - Built a web-based AI dashboard to extract and analyze structured data from documents (PDFs, images).  
-  - Implemented real-time text extraction, document preview, analytics, and AI-based summary generation for smarter insights.
-🔗 https://github.com/ananyaSrivastavaa9/SmartDoc-AI
+### 🔹 SmartDoc-AI  
+**Tech Stack:** HTML, CSS, JavaScript, Azure Document Intelligence  
+- Built a web-based AI dashboard to extract and analyze structured data from documents (PDFs, images).  
+- Implemented real-time text extraction, document preview, analytics, and AI-based summary generation.  
+🔗 https://github.com/ananyaSrivastavaa9/SmartDoc-AI  
 
-- **Student Record Management System | C++, STL (Vector)**  
-  - Console application to manage student records efficiently using C++ and STL vectors.  
-  - Features include adding, viewing, and managing data through a menu-driven interface, strengthening data structures knowledge.  
+---
 
-- **Mini Intrusion Detection System (IDS) | Python**  
-  - Developed a lightweight IDS to monitor network activity and detect potential threats.  
-  - Implemented packet sniffing, IP behavior analysis, real-time alerts, and logging for suspicious activities.  
+### 🔹 Student Record Management System  
+**Tech Stack:** C++, STL (Vector)  
+- Console-based application to manage student records efficiently.  
+- Features include adding, viewing, and managing data using a menu-driven interface.  
+🔗 https://github.com/ananyaSrivastavaa9/cpp-mini-projects  
 
-- **Vulnerable Web Application (Security Lab) | HTML, CSS, JavaScript, PHP**  
-  - Designed a deliberately vulnerable web application to study and demonstrate common cybersecurity flaws.  
-  - Practiced vulnerabilities like SQL Injection, XSS, and broken authentication, gaining practical security insights.  
+---
 
-- **Traffic Violation & Penalty Management System | C, File Handling**  
-  - Developed a system to manage traffic violations, calculate fines, and track repeat offenders using structured programming.  
-  - Implemented persistent storage with file I/O and generated summary reports for revenue tracking.  
+### 🔹 Mini Intrusion Detection System (IDS)  
+**Tech Stack:** Python  
+- Developed a lightweight IDS to monitor network activity and detect threats.  
+- Implemented packet sniffing, IP behavior analysis, real-time alerts, and logging.  
+🔗 https://github.com/ananyaSrivastavaa9/Mini-IDS  
+
+---
+
+### 🔹 Vulnerable Web Application (Security Lab)  
+**Tech Stack:** HTML, CSS, JavaScript, PHP  
+- Designed a vulnerable web app to demonstrate common cybersecurity flaws.  
+- Practiced SQL Injection, XSS, and broken authentication for hands-on learning.  
+🔗 https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo  
+
+---
+
+### 🔹 Traffic Violation & Penalty Management System  
+**Tech Stack:** C, File Handling  
+- Built a system to manage traffic violations and calculate penalties.  
+- Implemented file handling for persistent storage and summary reporting.  
+🔗 https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50  
 
 ---
 
