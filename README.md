@@ -20,45 +20,38 @@
 - Fundamentals of AI & Machine Learning  
 
 ---
+
 ## 🚀 Projects
 
 ### 🔹 SmartDoc-AI  
 **Tech Stack:** HTML, CSS, JavaScript, Azure Document Intelligence  
 - Built a web-based AI dashboard to extract and analyze structured data from documents (PDFs, images).  
-- Implemented real-time text extraction, document preview, analytics, and AI-based summary generation.  
-🔗 https://github.com/ananyaSrivastavaa9/SmartDoc-AI  
-
----
+- Implemented real-time text extraction, preview, analytics, and AI-based summaries.  
+🔗 [View Project](https://github.com/ananyaSrivastavaa9/SmartDoc-AI)
 
 ### 🔹 Student Record Management System  
 **Tech Stack:** C++, STL (Vector)  
 - Console-based application to manage student records efficiently.  
-- Features include adding, viewing, and managing data using a menu-driven interface.  
-🔗 https://github.com/ananyaSrivastavaa9/cpp-mini-projects  
-
----
+- Menu-driven system for adding, viewing, and managing data.  
+🔗 [View Project](https://github.com/ananyaSrivastavaa9/cpp-mini-projects)
 
 ### 🔹 Mini Intrusion Detection System (IDS)  
 **Tech Stack:** Python  
-- Developed a lightweight IDS to monitor network activity and detect threats.  
-- Implemented packet sniffing, IP behavior analysis, real-time alerts, and logging.  
-🔗 https://github.com/ananyaSrivastavaa9/Mini-IDS  
-
----
+- Lightweight IDS to monitor network activity and detect threats.  
+- Implemented packet sniffing, alerts, and logging system.  
+🔗 [View Project](https://github.com/ananyaSrivastavaa9/Mini-IDS)
 
 ### 🔹 Vulnerable Web Application (Security Lab)  
 **Tech Stack:** HTML, CSS, JavaScript, PHP  
-- Designed a vulnerable web app to demonstrate common cybersecurity flaws.  
-- Practiced SQL Injection, XSS, and broken authentication for hands-on learning.  
-🔗 https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo  
-
----
+- Built a vulnerable web app to demonstrate cybersecurity flaws.  
+- Practiced SQL Injection, XSS, and authentication issues.  
+🔗 [View Project](https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo)
 
 ### 🔹 Traffic Violation & Penalty Management System  
 **Tech Stack:** C, File Handling  
-- Built a system to manage traffic violations and calculate penalties.  
-- Implemented file handling for persistent storage and summary reporting.  
-🔗 https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50  
+- System to manage violations and calculate penalties.  
+- Implemented file handling for persistent storage.  
+🔗 [View Project](https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50)
 
 ---
 
