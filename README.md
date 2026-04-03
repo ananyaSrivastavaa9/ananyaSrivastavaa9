@@ -23,30 +23,25 @@
 
 ## 🚀 Projects
 
-- **SmartDoc-AI (AI-based Document Intelligence Dashboard) | HTML, CSS, JavaScript, Azure Document Intelligence |**
-• Developed a web-based dashboard to extract and analyze structured data from documents (PDF, images) using Azure AI services
-• Implemented real-time text extraction, document preview, and analytics (pages, words, lines)
-• Integrated AI-based summary generation and query system for enhanced document understanding
+- **SmartDoc-AI | HTML, CSS, JavaScript, Azure Document Intelligence**  
+  - Built a web-based AI dashboard to extract and analyze structured data from documents (PDFs, images).  
+  - Implemented real-time text extraction, document preview, analytics, and AI-based summary generation for smarter insights.  
 
-- **Student Record Management System | C++, STL (Vector) |**
-• Built a console-based system to manage student records using C++ and STL vectors
-• Implemented features to add, view, and manage student data through a menu-driven interface
-• Strengthened understanding of data structures, vectors, and structured programming
+- **Student Record Management System | C++, STL (Vector)**  
+  - Console application to manage student records efficiently using C++ and STL vectors.  
+  - Features include adding, viewing, and managing data through a menu-driven interface, strengthening data structures knowledge.  
 
-- **Mini Intrusion Detection System (IDS) | Python |**
-• Developed a basic intrusion detection system to monitor network activity and detect threats
-• Implemented packet sniffing and IP behavior analysis to identify brute force and repeated requests
-• Generated real-time alerts and stored logs for suspicious activities
+- **Mini Intrusion Detection System (IDS) | Python**  
+  - Developed a lightweight IDS to monitor network activity and detect potential threats.  
+  - Implemented packet sniffing, IP behavior analysis, real-time alerts, and logging for suspicious activities.  
 
-- **Vulnerable Web Application (Security Lab) | HTML, CSS, JavaScript, PHP |**
-• Designed a deliberately vulnerable web application to demonstrate common cybersecurity flaws
-• Implemented vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), and broken authentication
-• Gained hands-on experience in identifying and understanding real-world security risks
+- **Vulnerable Web Application (Security Lab) | HTML, CSS, JavaScript, PHP**  
+  - Designed a deliberately vulnerable web application to study and demonstrate common cybersecurity flaws.  
+  - Practiced vulnerabilities like SQL Injection, XSS, and broken authentication, gaining practical security insights.  
 
-- **Traffic Violation & Penalty Management System | C, File Handling |**
-• Developed a system to manage traffic violations, calculate fines, and track repeat offenders
-• Implemented record management, penalty updates, and payment tracking using structured programming
-• Used file I/O for persistent data storage and generated summary reports for revenue tracking
+- **Traffic Violation & Penalty Management System | C, File Handling**  
+  - Developed a system to manage traffic violations, calculate fines, and track repeat offenders using structured programming.  
+  - Implemented persistent storage with file I/O and generated summary reports for revenue tracking.  
 
 ---
 
