@@ -23,34 +23,29 @@
 
 ## 🚀 Projects
 
-### 🔹 SmartDoc-AI  
-**Tech Stack:** HTML, CSS, JavaScript, Azure Document Intelligence  
-- Built a web-based AI dashboard to extract and analyze structured data from documents (PDFs, images).  
-- Implemented real-time text extraction, preview, analytics, and AI-based summaries.  
+🔹 **SmartDoc-AI**  
+Built a web-based AI dashboard to extract and analyze structured data from documents.  
+Tech: HTML, CSS, JavaScript, Azure Document Intelligence  
 🔗 [View Project](https://github.com/ananyaSrivastavaa9/SmartDoc-AI)
 
-### 🔹 Student Record Management System  
-**Tech Stack:** C++, STL (Vector)  
-- Console-based application to manage student records efficiently.  
-- Menu-driven system for adding, viewing, and managing data.  
+🔹 **Student Record Management System**  
+Console-based application to manage student records using C++ and STL.  
+Tech: C++, STL (Vector)  
 🔗 [View Project](https://github.com/ananyaSrivastavaa9/cpp-mini-projects)
 
-### 🔹 Mini Intrusion Detection System (IDS)  
-**Tech Stack:** Python  
-- Lightweight IDS to monitor network activity and detect threats.  
-- Implemented packet sniffing, alerts, and logging system.  
+🔹 **Mini Intrusion Detection System (IDS)**  
+Lightweight IDS to monitor network activity and detect threats.  
+Tech: Python  
 🔗 [View Project](https://github.com/ananyaSrivastavaa9/Mini-IDS)
 
-### 🔹 Vulnerable Web Application (Security Lab)  
-**Tech Stack:** HTML, CSS, JavaScript, PHP  
-- Built a vulnerable web app to demonstrate cybersecurity flaws.  
-- Practiced SQL Injection, XSS, and authentication issues.  
+🔹 **Vulnerable Web Application (Security Lab)**  
+Designed a vulnerable app to demonstrate cybersecurity flaws like SQL Injection & XSS.  
+Tech: HTML, CSS, JavaScript, PHP  
 🔗 [View Project](https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo)
 
-### 🔹 Traffic Violation & Penalty Management System  
-**Tech Stack:** C, File Handling  
-- System to manage violations and calculate penalties.  
-- Implemented file handling for persistent storage.  
+🔹 **Traffic Violation & Penalty Management System**  
+System to manage violations and calculate penalties using file handling.  
+Tech: C, File Handling  
 🔗 [View Project](https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50)
 
 ---
