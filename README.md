@@ -25,8 +25,8 @@
 
 - **SmartDoc-AI | HTML, CSS, JavaScript, Azure Document Intelligence**  
   - Built a web-based AI dashboard to extract and analyze structured data from documents (PDFs, images).  
-  - Implemented real-time text extraction, document preview, analytics, and AI-based summary generation for smarter insights.  
-  🔗 https://github.com/ananyaSrivastavaa9/SmartDoc-AI
+  - Implemented real-time text extraction, document preview, analytics, and AI-based summary generation for smarter insights.
+🔗 https://github.com/ananyaSrivastavaa9/SmartDoc-AI
 
 - **Student Record Management System | C++, STL (Vector)**  
   - Console application to manage student records efficiently using C++ and STL vectors.  
