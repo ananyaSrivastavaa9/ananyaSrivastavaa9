@@ -23,21 +23,30 @@
 
 ## 🚀 Projects
 
-- **SmartDoc AI**  
-  AI-powered document intelligence dashboard with Azure integration  
-  🔗 https://github.com/ananyaSrivastavaa9/SmartDoc-AI  
+- **SmartDoc-AI (AI-based Document Intelligence Dashboard) | HTML, CSS, JavaScript, Azure Document Intelligence |**
+• Developed a web-based dashboard to extract and analyze structured data from documents (PDF, images) using Azure AI services
+• Implemented real-time text extraction, document preview, and analytics (pages, words, lines)
+• Integrated AI-based summary generation and query system for enhanced document understanding
 
-- **Mini Intrusion Detection System (Mini-IDS)**  
-  Beginner-level cybersecurity project to detect suspicious activities using Python  
-  🔗 https://github.com/ananyaSrivastavaa9/Mini-IDS  
+- **Student Record Management System | C++, STL (Vector) |**
+• Built a console-based system to manage student records using C++ and STL vectors
+• Implemented features to add, view, and manage student data through a menu-driven interface
+• Strengthened understanding of data structures, vectors, and structured programming
 
-- **Vulnerable Web App Demo**  
-  A deliberately vulnerable web application for learning web security & OWASP concepts  
-  🔗 https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo  
+- **Mini Intrusion Detection System (IDS) | Python |**
+• Developed a basic intrusion detection system to monitor network activity and detect threats
+• Implemented packet sniffing and IP behavior analysis to identify brute force and repeated requests
+• Generated real-time alerts and stored logs for suspicious activities
 
-- **Traffic Violation & Penalty System**  
-  C-based system to manage and track traffic violations and penalties  
-  🔗 https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50  
+- **Vulnerable Web Application (Security Lab) | HTML, CSS, JavaScript, PHP |**
+• Designed a deliberately vulnerable web application to demonstrate common cybersecurity flaws
+• Implemented vulnerabilities such as SQL Injection, Cross-Site Scripting (XSS), and broken authentication
+• Gained hands-on experience in identifying and understanding real-world security risks
+
+- **Traffic Violation & Penalty Management System | C, File Handling |**
+• Developed a system to manage traffic violations, calculate fines, and track repeat offenders
+• Implemented record management, penalty updates, and payment tracking using structured programming
+• Used file I/O for persistent data storage and generated summary reports for revenue tracking
 
 ---
 
