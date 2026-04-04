@@ -24,27 +24,38 @@
 ## 🚀 Projects
 
 ### SmartDoc-AI  
-- Built a web-based AI dashboard to extract and analyze structured data from documents.  
+- Built a web-based AI dashboard to extract and analyze structured data from documents  
+- Implemented real-time text extraction and document preview features  
+- Integrated Azure Document Intelligence for accurate data processing  
 **Tech:** HTML, CSS, JavaScript, Azure Document Intelligence  
 🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/SmartDoc-AI)
 
 ### Student Record Management System  
-- Console-based application to manage student records using C++ and STL.  
+- Developed a console-based application to manage student records  
+- Implemented operations like add, update, delete, and search  
+- Utilized STL vectors for efficient data handling  
 **Tech:** C++, STL (Vector)  
 🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/cpp-mini-projects)
 
 ### Mini Intrusion Detection System (IDS)  
-- Lightweight IDS to monitor network activity and detect threats.  
+- Built a lightweight IDS to monitor network activity  
+- Detected suspicious patterns and potential threats  
+- Implemented basic alert mechanisms for security monitoring  
 **Tech:** Python  
 🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Mini-IDS)
 
 ### Vulnerable Web Application (Security Lab)  
-- Designed a vulnerable app to demonstrate cybersecurity flaws like SQL Injection & XSS.  
+- Designed a vulnerable web app to demonstrate cybersecurity flaws  
+- Simulated attacks like SQL Injection and Cross-Site Scripting (XSS)  
+- Created for educational and security testing purposes  
 **Tech:** HTML, CSS, JavaScript, PHP  
 🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo)
 
+
 ### Traffic Violation & Penalty Management System  
-- System to manage violations and calculate penalties using file handling.  
+- Developed a system to manage traffic violations and penalties  
+- Implemented fine calculation and record tracking  
+- Used file handling for persistent data storage  
 **Tech:** C, File Handling  
 🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50)
 
