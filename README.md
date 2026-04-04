@@ -27,6 +27,7 @@
 - Built a web-based AI dashboard to extract and analyze structured data from documents  
 - Implemented real-time text extraction and document preview features  
 - Integrated Azure Document Intelligence for accurate data processing  
+
 **Tech:** HTML, CSS, JavaScript, Azure Document Intelligence  
 🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/SmartDoc-AI)
 
@@ -34,6 +35,7 @@
 - Developed a console-based application to manage student records  
 - Implemented operations like add, update, delete, and search  
 - Utilized STL vectors for efficient data handling  
+
 **Tech:** C++, STL (Vector)  
 🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/cpp-mini-projects)
 
@@ -41,6 +43,7 @@
 - Built a lightweight IDS to monitor network activity  
 - Detected suspicious patterns and potential threats  
 - Implemented basic alert mechanisms for security monitoring  
+
 **Tech:** Python  
 🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Mini-IDS)
 
@@ -48,6 +51,7 @@
 - Designed a vulnerable web app to demonstrate cybersecurity flaws  
 - Simulated attacks like SQL Injection and Cross-Site Scripting (XSS)  
 - Created for educational and security testing purposes  
+
 **Tech:** HTML, CSS, JavaScript, PHP  
 🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo)
 
@@ -56,6 +60,7 @@
 - Developed a system to manage traffic violations and penalties  
 - Implemented fine calculation and record tracking  
 - Used file handling for persistent data storage  
+
 **Tech:** C, File Handling  
 🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50)
 
