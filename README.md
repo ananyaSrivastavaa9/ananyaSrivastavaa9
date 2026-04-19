@@ -23,14 +23,11 @@
 
 ## 🚀 Projects
 
-### AI Translator Pro
-- Built a modern, fully responsive AI-powered translation dashboard  
-- Implemented real-time text translation with auto language detection and swap feature  
-- Integrated voice-to-text input using Web Speech API  
-- Added OCR-based image text extraction using Tesseract.js  
-- Developed translation history with search and local storage persistence  
-- Included text-to-speech, copy utility, and floating assistant for better UX  
-- Designed a clean, interactive UI with responsive layout and smooth effects  
+### AI Translator Pro — Translation Dashboard  
+- Developed a fully responsive AI-powered translation dashboard with real-time translation, auto language detection, and language swap functionality  
+- Integrated multiple input methods including voice-to-text (Web Speech API) and OCR-based image text extraction (Tesseract.js)  
+- Implemented features like text-to-speech, translation history with search, and localStorage-based data persistence  
+- Designed a clean, interactive UI with smooth effects and enhanced user experience using a floating assistant    
 
 **Tech:** HTML, CSS, JavaScript, Microsoft Azure Translator API, Web Speech API, Tesseract.js, localStorage  
 
