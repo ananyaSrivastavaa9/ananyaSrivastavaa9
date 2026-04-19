@@ -44,6 +44,7 @@
 
 **Tech:** HTML, CSS, JavaScript, Azure Document Intelligence  
 🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/SmartDoc-AI)
+🌐 [Live Demo](https://ananyasrivastavaa9.github.io/SmartDoc-AI/)
 
 ### Student Record Management System  
 - Developed a console-based application to manage student records  
