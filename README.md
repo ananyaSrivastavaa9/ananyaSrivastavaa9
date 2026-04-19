@@ -23,6 +23,20 @@
 
 ## 🚀 Projects
 
+### AI Translator Pro
+- Built a modern, fully responsive AI-powered translation dashboard  
+- Implemented real-time text translation with auto language detection and swap feature  
+- Integrated voice-to-text input using Web Speech API  
+- Added OCR-based image text extraction using Tesseract.js  
+- Developed translation history with search and local storage persistence  
+- Included text-to-speech, copy utility, and floating assistant for better UX  
+- Designed a clean, interactive UI with responsive layout and smooth effects  
+
+**Tech:** HTML, CSS, JavaScript, Microsoft Azure Translator API, Web Speech API, Tesseract.js, localStorage  
+
+🔗 [GitHub Repo](https://github.com/ananyasrivastavaa9/Translator-Pro)  
+🌐 [Live Demo](https://ananyasrivastavaa9.github.io/Translator-Pro/)
+
 ### SmartDoc-AI  
 - Built a web-based AI dashboard to extract and analyze structured data from documents  
 - Implemented real-time text extraction and document preview features  
