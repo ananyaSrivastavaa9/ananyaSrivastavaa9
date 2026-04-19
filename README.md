@@ -43,7 +43,7 @@
 - Integrated Azure Document Intelligence for accurate data processing  
 
 **Tech:** HTML, CSS, JavaScript, Azure Document Intelligence  
-🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/SmartDoc-AI)
+🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/SmartDoc-AI)   
 🌐 [Live Demo](https://ananyasrivastavaa9.github.io/SmartDoc-AI/)
 
 ### Student Record Management System  
