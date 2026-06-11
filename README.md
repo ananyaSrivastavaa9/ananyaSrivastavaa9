@@ -16,24 +16,30 @@
 </div>
 
 ---
-
+```
 ## 🧠 About Me
 
-```text
-class Ananya:
-    def __init__(self):
-        self.name       = "Ananya Srivastava"
-        self.degree     = "B.Tech CSE (AI & ML) · Chandigarh University · 2025–2029"
-        self.location   = "Uttar Pradesh, India"
-        self.languages  = ["Python", "C++", "C", "JavaScript", "PHP"]
-        self.domains    = ["Multi-Agent Systems", "Edge AI", "Cloud Engineering", "Cybersecurity"]
-        self.currently  = "Building Silent Sentinel — passive edge AI safety platform"
-        self.hackathon  = "Microsoft Agents League 2026 — Reasoning Agents Track"
-        self.goal       = "SWE / AI Internship"
+<br>
 
-    def fun_fact(self):
-        return "Shipped 6 projects + 1 hackathon in my first year of college 🚀"
+| 👤 Personal Details | |
+| :--- | :--- |
+| **🚀 Currently** | Building **Silent Sentinel** — a passive edge AI safety platform |
+| **🏆 Hackathon** | Competing in **Microsoft Agents League 2026** *(Reasoning Agents Track)* |
+| **🎓 Education** | **B.Tech CSE (AI & ML)** · Chandigarh University *(2025–2029)* |
+| **📍 Location** | Uttar Pradesh, India |
+| **🎯 Goal** | SWE / AI Internship |
 
+<br>
+
+### 🛠️ Tech Stack & Domains
+
+* **Core Domains:** Multi-Agent Systems · Edge AI · Cloud Engineering · Cybersecurity
+* **Languages:** Python · C++ · C · JavaScript · PHP
+
+---
+
+### ⚡ Fun Fact
+> **Shipped 6 projects + 1 hackathon in my first year of college! 🚀**
 ```
 ---
 
