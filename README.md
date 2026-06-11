@@ -2,7 +2,7 @@
 
 # Ananya Srivastava
 
-### AI &amp; ML Student • Building AI Systems, Developer Tools, and Security Projects
+### AI & ML Student • Building AI Systems, Multi-Agent Applications, and Security Projects
 
 <p><strong>B.Tech CSE (AI & ML) @ Chandigarh University (2025–2029)</strong></p>
 
@@ -24,7 +24,7 @@
 | **Education** | **B.Tech CSE (AI & ML)** · Chandigarh University *(2025–2029)* |
 | **Location** | Uttar Pradesh, India |
 | **Goal** | SWE / AI Internship |
-| **Highlights** | 6 projects built, 5 certifications, and active DSA practice in first year |
+| **Highlights** | Built multiple AI, cloud, and security projects while learning DSA and core CS fundamentals |
 
 ## 💼 Looking For
 
@@ -80,8 +80,8 @@ Software Engineering and AI/ML internship opportunities where I can contribute, 
 
 Grounded multi-agent LLM system generating personalized enterprise certification roadmaps with policy traceability.
 
-- Architected a **deterministic 4-agent cascade** — Foundry IQ → Sage Auditor → Chronos Scheduler → Surreal UI — binding every decision to a real enterprise JSON policy before LLM elaboration
-- Reduced factual drift via **Microsoft Foundry IQ knowledge retrieval gate** with visible citation strings per output
+- Built a 4-agent workflow where planning, auditing, scheduling, and presentation are handled by separate agents.
+- Added retrieval-based validation and citation display to keep outputs tied to source policy data.
 - Engineered fault isolation: API timeouts, bounded token budgets, retry logic, and session-safe caching across all pipeline stages
 
 `Python` `GPT-4o` `Azure Foundry` `GitHub Models` `Streamlit`
