@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/badge/LeetCode-Solving%20Daily-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
 </p>
 
-I am an aspiring **Software Engineer and AI-ML Developer** pursuing my B.Tech at Chandigarh University. I specialize in building deterministic multi-agent orchestration pipelines, production-grade cloud integrations, and edge-optimized intelligent architectures. 
+I am a **Software Engineer and AI-ML Developer** specializing in building deterministic multi-agent orchestration pipelines, production-grade cloud integrations, and high-performance intelligent architectures. 
 
-My career goal is to design scalable, fault-tolerant AI infrastructure and core systems at engineering-first companies like **Google** and **Microsoft**.
+My work focuses on writing clean, scalable, and fault-tolerant code while designing robust solutions that bridge systemic software architecture with deep learning applications.
 
 ---
 
@@ -27,7 +27,7 @@ My career goal is to design scalable, fault-tolerant AI infrastructure and core 
 ## 🚀 Featured Flagship Projects
 
 ### 🔮 1. Daily Nixtio — Enterprise Learning Agents
-*Architected for the Microsoft Agents League Hackathon 2026 (Reasoning Agents Track)*
+*Architected for the Microsoft Agents League Hackathon (Reasoning Agents Track)*
 *   **The Architecture:** Developed a deterministic **4-agent reasoning cascade** (Supervisor, Planner, Policy, and Memory agents) powered by `gpt-4o` to dynamically synthesize 5–7 day enterprise learning arcs.
 *   **Enterprise Grounding:** Utilized **Microsoft Foundry IQ Engine** to bind agent outputs directly to an authoritative `corporate_learning_policy.json` file, entirely eliminating generative hallucinations.
 *   **Production Guardrails:** Implemented rigid token-budgeting, capacity-enforcement state loops, and automatic API retry mechanisms to handle high-concurrency simulation stress testing.
@@ -52,7 +52,7 @@ My career goal is to design scalable, fault-tolerant AI infrastructure and core 
 
 ## 📊 Engineering Metrics & Coding Profiles
 
-*   **LeetCode:** [ananyasrivastavaaa](https://leetcode.com/u/ananyasrivastavaa/) — Focus on Arrays, Strings, Trees, and Graph Traversal algorithms.
+*   **LeetCode:** [@ananyasrivastavaa](https://leetcode.com/u/ananyasrivastavaa/) — Focus on Arrays, Strings, Trees, and Graph Traversal algorithms.
 *   **Open Source Contributions:** Actively building and refining autonomous agent logic and systems optimization.
 
 <p align="left">
