@@ -29,11 +29,10 @@ class Ananya:
         self.domains    = ["Multi-Agent Systems", "Edge AI", "Cloud Engineering", "Cybersecurity"]
         self.currently  = "Building Silent Sentinel — passive edge AI safety platform"
         self.hackathon  = "Microsoft Agents League 2026 — Reasoning Agents Track"
-        self.goal       = "SWE / AI Internship @ Top-Tier Tech Company"
+        self.goal       = "SWE / AI Internship"
 
     def fun_fact(self):
         return "Shipped 6 projects + 1 hackathon in my first year of college 🚀"
-```
 
 ---
 
