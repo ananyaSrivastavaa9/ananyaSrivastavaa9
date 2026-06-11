@@ -2,18 +2,14 @@
 
 # Ananya Srivastava
 
-### AI & ML Engineer | Builder | Problem Solver
+### AI &amp; ML Student • Building AI Systems, Developer Tools, and Security Projects
 
 <p><strong>B.Tech CSE (AI & ML) @ Chandigarh University (2025–2029)</strong></p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E9EF7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%28AI+%26+ML%29+%40+Chandigarh+University;Multi-Agent+Systems+%7C+Edge+AI+%7C+Cloud;Microsoft+Agents+League+Hackathon+2026;Building+real+things+that+solve+real+problems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyasrivastavaa8)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ananyasrivastavaa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyaSrivastavaa9)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyasrivastavaa9@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ananyaSrivastavaa9&style=for-the-badge&color=6E9EF7&label=PROFILE+VIEWS)
 
 </div>
 
@@ -21,41 +17,23 @@
 
 ## 🧠 About Me
 
-<br>
-
-| 👤 Personal Details | |
+| Personal Details | |
 | :--- | :--- |
-| **🚀 Currently** | Building **Silent Sentinel** — a passive edge AI safety platform |
-| **🏆 Hackathon** | Competing in **Microsoft Agents League 2026** *(Reasoning Agents Track)* |
-| **🎓 Education** | **B.Tech CSE (AI & ML)** · Chandigarh University *(2025–2029)* |
-| **📍 Location** | Uttar Pradesh, India |
-| **🎯 Goal** | SWE / AI Internship |
+| **Currently** | Building **Silent Sentinel** — a passive edge AI safety platform |
+| **Hackathon** | Competing in **Microsoft Agents League 2026** *(Reasoning Agents Track)* |
+| **Education** | **B.Tech CSE (AI & ML)** · Chandigarh University *(2025–2029)* |
+| **Location** | Uttar Pradesh, India |
+| **Goal** | SWE / AI Internship |
+| **Highlights** | 6 projects built, 5 certifications, and active DSA practice in first year |
 
-<br>
+## 💼 Looking For
+
+Software Engineering and AI/ML internship opportunities where I can contribute, learn, and grow through real-world engineering work.
 
 ### 🛠️ Tech Stack & Domains
 
-* **Core Domains:** Multi-Agent Systems · Edge AI · Cloud Engineering · Cybersecurity
+* **Core Domains:** Multi-Agent Systems · Edge AI · Cloud Engineering · Cybersecurity  
 * **Languages:** Python · C++ · C · JavaScript · PHP
-
----
-
-### ⚡ Fun Fact
-> **Shipped 6 projects + 1 hackathon in my first year of college! 🚀**
-
----
-## 🏆 At a Glance
-
-<div align="center">
-
-| 🥇 | Details |
-|---|---|
-| **Microsoft Agents League Hackathon 2026** | 4-agent grounded reasoning pipeline · Reasoning Agents Track |
-| **6 Shipped Projects** | Cloud AI · Edge Computing · Cybersecurity · Multi-Agent LLMs |
-| **5 Industry Certifications** | Microsoft Azure · IBM · Google Cloud · Fortinet · HP LIFE |
-| **Year 1 of College** | All of the above — while learning DSA & core CS fundamentals simultaneously |
-
-</div>
 
 ---
 
@@ -100,11 +78,11 @@
 ### 🔮 [Enterprise Learning Agents](https://github.com/ananyaSrivastavaa9/enterprise-learning-agents)
 **Microsoft Agents League Hackathon 2026 · Reasoning Agents Track**
 
-> Grounded multi-agent LLM system generating personalized enterprise certification roadmaps — zero hallucinations, full policy traceability.
+Grounded multi-agent LLM system generating personalized enterprise certification roadmaps with policy traceability.
 
 - Architected a **deterministic 4-agent cascade** — Foundry IQ → Sage Auditor → Chronos Scheduler → Surreal UI — binding every decision to a real enterprise JSON policy before LLM elaboration
-- Eliminated factual drift via **Microsoft Foundry IQ knowledge retrieval gate** with visible citation strings per output
-- Engineered production-grade fault isolation: API timeouts, bounded token budgets, retry logic, and session-safe caching across all pipeline stages
+- Reduced factual drift via **Microsoft Foundry IQ knowledge retrieval gate** with visible citation strings per output
+- Engineered fault isolation: API timeouts, bounded token budgets, retry logic, and session-safe caching across all pipeline stages
 
 `Python` `GPT-4o` `Azure Foundry` `GitHub Models` `Streamlit`
 
@@ -114,11 +92,11 @@
 ### 🛡️ [Silent Sentinel](https://github.com/ananyaSrivastavaa9/silent_sentinel)
 **Edge AI Passive Safety Platform**
 
-> Passive background safety monitor — detects danger without any user action. Runs entirely on-device.
+Passive background safety monitor that detects danger without user action and runs on-device.
 
 - Designed a **3-pillar concurrent processing architecture**: CNN acoustic stress analysis on spectrograms + LSTM fall/gait telemetry on IMU data + Dead Man's Switch FSM
 - Implemented **Pydantic V2 strict config validation**, a thread-safe Observer Pattern event bus, and structured JSON telemetry logging
-- Privacy-first edge deployment — all inference stays on-device, zero cloud dependency, zero data leakage
+- Privacy-first edge deployment — all inference stays on-device with no cloud dependency
 
 `Python` `TensorFlow` `CNN` `LSTM` `Pydantic` `Streamlit`
 
@@ -130,10 +108,10 @@
 ### 🌐 [AI Translator Pro](https://github.com/ananyaSrivastavaa9/Translator-Pro) · [Live Demo ↗](https://ananyasrivastavaa9.github.io/Translator-Pro/)
 **Real-Time Multi-Modal Translation Dashboard**
 
-> Translation dashboard with voice, OCR, and typed input — 14 languages, runs in the browser.
+Translation dashboard with voice, OCR, and typed input across 14 languages in-browser.
 
 - Orchestrated **3 async third-party APIs** — Azure Translator, Web Speech API (voice-to-text), Tesseract.js (OCR) — into a unified multi-modal ingestion pipeline
-- Built a **localStorage caching layer** for translation history, reducing redundant API calls and eliminating repeated lookup overhead
+- Built a **localStorage caching layer** for translation history, reducing redundant API calls
 - Auto language detection, language swap, TTS output, and floating assistant UI
 
 `HTML` `CSS` `JavaScript` `Azure Translator API` `Web Speech API` `Tesseract.js`
@@ -144,7 +122,7 @@
 ### 📄 [SmartDoc AI](https://github.com/ananyaSrivastavaa9/SmartDoc-AI) · [Live Demo ↗](https://ananyasrivastavaa9.github.io/SmartDoc-AI/)
 **Cloud Document Intelligence Dashboard**
 
-> Upload any PDF or image — get structured data extraction, AI summary, and NL queries instantly.
+Upload PDFs or images to get structured extraction, AI summary, and natural language queries.
 
 - Integrated **Azure Document Intelligence REST API** to parse and map token-level structured data from PDFs and images in real time
 - Developed multi-stage analytics pipeline: automated AI summarization + natural language query interface on arbitrary document schemas
@@ -159,7 +137,7 @@
 ### 🔒 [Mini Intrusion Detection System](https://github.com/ananyaSrivastavaa9/Mini-IDS)
 **Real-Time Network Threat Monitor**
 
-> Detects brute force attacks and suspicious traffic — built from raw Python sockets up.
+Detects brute force attacks and suspicious traffic from raw Python socket monitoring.
 
 - Built a **low-level raw socket packet sniffer** monitoring live network traffic for brute force signatures and suspicious IP behavioral patterns
 - Stateful IP behavioral analysis with real-time alert generation and persistent structured log storage
@@ -172,7 +150,7 @@
 ### ⚠️ [Vulnerable Web App — Security Lab](https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo)
 **Cybersecurity Education Tool**
 
-> Deliberately insecure app — built to study and demonstrate real-world attack vectors.
+Deliberately insecure app built to study and demonstrate real-world attack vectors.
 
 - Demonstrates **5 vulnerability classes**: SQL Injection, Stored XSS, Broken Access Control, plaintext credential storage, and server misconfiguration
 - Each exploit documented with annotated screenshots and attack walkthroughs · MIT Licensed
@@ -193,63 +171,34 @@
 
 </div>
 
-- 🔁 Solving problems daily in **C++** — arrays, strings, recursion, linked lists, trees, sorting
-- 📁 Structured practice repos: [DSA-Cpp](https://github.com/ananyaSrivastavaa9/DSA-Cpp) · [Python-Practice](https://github.com/ananyaSrivastavaa9/Python-Practice) · [C-Programming](https://github.com/ananyaSrivastavaa9/C-Programming)
-- 🎯 Current focus: **Two Pointers · Sliding Window · Recursion**
+- Solving problems regularly in **C++** — arrays, strings, recursion, linked lists, trees, sorting  
+- Practice repos: [DSA-Cpp](https://github.com/ananyaSrivastavaa9/DSA-Cpp) · [Python-Practice](https://github.com/ananyaSrivastavaa9/Python-Practice) · [C-Programming](https://github.com/ananyaSrivastavaa9/C-Programming)  
+- Current focus: **Two Pointers · Sliding Window · Recursion**
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+</div>
 
 ---
 
 ## 🏅 Certifications
 
-<div align="center">
-
-| 🏆 Certification | 🏢 Issuer | 🔵 Domain |
-|---|---|---|
-| **Azure Fundamentals (AZ-900)** | Microsoft | Cloud Computing |
-| **Threat Landscape 3.0** | Fortinet | Cybersecurity |
-| **Enterprise Design Thinking Practitioner** | IBM SkillsBuild | Systems Thinking |
-| **Generative AI Studio** | Google Cloud / Simplilearn | AI & LLMs |
-| **Professional Networking & Critical Thinking** | HP LIFE | Professional Skills |
-
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ananyaSrivastavaa9&theme=tokyonight&hide_border=true)
-
-</div>
+- **Azure Fundamentals (AZ-900)** — Microsoft  
+- **Threat Landscape 3.0** — Fortinet  
+- **Enterprise Design Thinking Practitioner** — IBM SkillsBuild  
+- **Generative AI Studio** — Google Cloud / Simplilearn  
+- **Professional Networking & Critical Thinking** — HP LIFE  
 
 ---
 
 ## 💬 Open to Opportunities
 
-<div align="center">
-
-**Actively seeking Software Engineering & AI/ML internships.**
-If you are hiring or know of a relevant opportunity — let's talk.
+Actively seeking Software Engineering and AI/ML internships.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyasrivastavaa8)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyasrivastavaa9@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"Ship early. Learn always. Build things that matter."*
-
-![Last Updated](https://img.shields.io/badge/Last_Updated-June_2026-6E9EF7?style=flat-square)
-
-</div>
