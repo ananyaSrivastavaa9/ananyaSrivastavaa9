@@ -22,14 +22,14 @@
 ```python
 class Ananya:
     def __init__(self):
-        self.name       = "Ananya Srivastava"
-        self.degree     = "B.Tech CSE (AI & ML) · Chandigarh University · 2025–2029"
-        self.location   = "Uttar Pradesh, India"
-        self.languages  = ["Python", "C++", "C", "JavaScript", "PHP"]
-        self.domains    = ["Multi-Agent Systems", "Edge AI", "Cloud Engineering", "Cybersecurity"]
-        self.currently  = "Building Silent Sentinel — passive edge AI safety platform"
-        self.hackathon  = "Microsoft Agents League 2026 — Reasoning Agents Track"
-        self.goal       = "SWE / AI Internship"
+        self.name = "Ananya Srivastava"
+        self.degree = "B.Tech CSE (AI & ML) · Chandigarh University · 2025–2029"
+        self.location = "Uttar Pradesh, India"
+        self.languages = ["Python", "C++", "C", "JavaScript", "PHP"]
+        self.domains = ["Multi-Agent Systems", "Edge AI", "Cloud Engineering", "Cybersecurity"]
+        self.currently = "Building Silent Sentinel — passive edge AI safety platform"
+        self.hackathon = "Microsoft Agents League 2026 — Reasoning Agents Track"
+        self.goal = "SWE / AI Internship"
 
     def fun_fact(self):
         return "Shipped 6 projects + 1 hackathon in my first year of college 🚀"
