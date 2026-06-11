@@ -1,136 +1,208 @@
 <div align="center">
 
-# Ananya Srivastava
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ananya%20Srivastava&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
-**B.Tech CSE (AI & ML) · Chandigarh University · Batch of 2029**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E9EF7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%28AI+%26+ML%29+%40+Chandigarh+University;Multi-Agent+Systems+%7C+Edge+AI+%7C+Cloud;Microsoft+Agents+League+Hackathon+2026;Building+real+things+that+solve+real+problems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyasrivastavaa8)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ananyasrivastavaa/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ananyaSrivastavaa9)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyasrivastavaa9@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyasrivastavaa9@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ananyaSrivastavaa9&style=for-the-badge&color=6E9EF7&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 About Me
 
-I am a first-year B.Tech student specializing in **AI & Machine Learning**, actively building real-world software across cloud AI, edge computing, cybersecurity, and multi-agent systems. I focus on writing clean, production-level code and shipping projects that solve genuine problems — not just demos.
+```python
+class Ananya:
+    def __init__(self):
+        self.name       = "Ananya Srivastava"
+        self.degree     = "B.Tech CSE (AI & ML) · Chandigarh University · 2025–2029"
+        self.location   = "Uttar Pradesh, India"
+        self.languages  = ["Python", "C++", "C", "JavaScript", "PHP"]
+        self.domains    = ["Multi-Agent Systems", "Edge AI", "Cloud Engineering", "Cybersecurity"]
+        self.currently  = "Building Silent Sentinel — passive edge AI safety platform"
+        self.hackathon  = "Microsoft Agents League 2026 — Reasoning Agents Track"
+        self.goal       = "SWE / AI Internship @ Top-Tier Tech Company"
 
-- 🔭 Currently building **Silent Sentinel** — a passive edge AI safety platform with sensor fusion
-- 🏆 Competed in **Microsoft Agents League Hackathon 2026** — built a grounded multi-agent LLM reasoning system
-- 📚 Actively grinding **DSA in C++** and sharpening problem-solving fundamentals
-- 🎯 Goal: Software Engineering / AI internship at a top-tier tech company
-- 📍 Based in Uttar Pradesh, India
+    def fun_fact(self):
+        return "Shipped 6 projects + 1 hackathon in my first year of college 🚀"
+```
+
+---
+
+## 🏆 At a Glance
+
+<div align="center">
+
+| 🥇 | Details |
+|---|---|
+| **Microsoft Agents League Hackathon 2026** | 4-agent grounded reasoning pipeline · Reasoning Agents Track |
+| **6 Shipped Projects** | Cloud AI · Edge Computing · Cybersecurity · Multi-Agent LLMs |
+| **5 Industry Certifications** | Microsoft Azure · IBM · Google Cloud · Fortinet · HP LIFE |
+| **Year 1 of College** | All of the above — while learning DSA & core CS fundamentals simultaneously |
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**AI / ML & Cloud**
+**AI · ML · Cloud**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔮 [Enterprise Learning Agents](https://github.com/ananyaSrivastavaa9/enterprise-learning-agents) — *Microsoft Agents League Hackathon 2026*
-> Multi-agent reasoning system that generates grounded, personalized enterprise learning plans
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Architected a **4-agent pipeline** (Policy → Sage Auditor → Chronos Scheduler → UI) with Microsoft Foundry IQ as the knowledge retrieval gate — zero hallucinations on policy-bound queries
-- Grounded every agent output in a real enterprise JSON policy, with visible citation strings for full traceability
-- Built production-level **retry logic, fallback mechanisms, and session-safe caching** across all agent steps
-- `Python` `GPT-4o` `Azure Foundry` `GitHub Models` `Streamlit`
+### 🔮 [Enterprise Learning Agents](https://github.com/ananyaSrivastavaa9/enterprise-learning-agents)
+**Microsoft Agents League Hackathon 2026 · Reasoning Agents Track**
 
----
+> Grounded multi-agent LLM system generating personalized enterprise certification roadmaps — zero hallucinations, full policy traceability.
 
-### 🛡️ [Silent Sentinel](https://github.com/ananyaSrivastavaa9/silent_sentinel) — *Edge AI Passive Safety Platform*
-> Passive background safety monitor — no button press needed, runs on-device
+- Architected a **deterministic 4-agent cascade** — Foundry IQ → Sage Auditor → Chronos Scheduler → Surreal UI — binding every decision to a real enterprise JSON policy before LLM elaboration
+- Eliminated factual drift via **Microsoft Foundry IQ knowledge retrieval gate** with visible citation strings per output
+- Engineered production-grade fault isolation: API timeouts, bounded token budgets, retry logic, and session-safe caching across all pipeline stages
 
-- Designed a **3-pillar concurrent processing architecture**: acoustic stress analysis (CNN on spectrograms), fall/gait telemetry (LSTM on IMU data), and a dead man's switch FSM
-- Implemented **Pydantic V2 config validation**, a decoupled thread-safe Observer Pattern event bus, and structured JSON telemetry logging
-- Privacy-first edge deployment — no cloud dependencies, no data leakage
-- `Python` `TensorFlow` `CNN` `LSTM` `Streamlit` `Pydantic`
+`Python` `GPT-4o` `Azure Foundry` `GitHub Models` `Streamlit`
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🌐 [AI Translator Pro](https://github.com/ananyaSrivastavaa9/Translator-Pro) · [Live Demo](https://ananyasrivastavaa9.github.io/Translator-Pro/)
-> Real-time translation dashboard with voice, OCR, and history
+### 🛡️ [Silent Sentinel](https://github.com/ananyaSrivastavaa9/silent_sentinel)
+**Edge AI Passive Safety Platform**
 
-- Integrated **3 async APIs** — Azure Translator, Web Speech API (voice-to-text), and Tesseract.js (OCR) — for multi-modal input ingestion
-- Built a **localized caching layer** using localStorage to reduce redundant API calls and lower runtime overhead
-- Supports 14 languages with auto-detection, language swap, and text-to-speech output
-- `HTML` `CSS` `JavaScript` `Azure Translator API` `Web Speech API` `Tesseract.js`
+> Passive background safety monitor — detects danger without any user action. Runs entirely on-device.
 
----
+- Designed a **3-pillar concurrent processing architecture**: CNN acoustic stress analysis on spectrograms + LSTM fall/gait telemetry on IMU data + Dead Man's Switch FSM
+- Implemented **Pydantic V2 strict config validation**, a thread-safe Observer Pattern event bus, and structured JSON telemetry logging
+- Privacy-first edge deployment — all inference stays on-device, zero cloud dependency, zero data leakage
 
-### 📄 [SmartDoc AI](https://github.com/ananyaSrivastavaa9/SmartDoc-AI) · [Live Demo](https://ananyasrivastavaa9.github.io/SmartDoc-AI/)
-> Cloud-integrated document intelligence dashboard
+`Python` `TensorFlow` `CNN` `LSTM` `Pydantic` `Streamlit`
 
-- Built a high-throughput document ingestion pipeline using **Azure Document Intelligence** to extract structured data from PDFs and images in real time
-- Developed an automated AI summary engine and a natural language query interface on top of extracted document schemas
-- `HTML` `CSS` `JavaScript` `Azure Document Intelligence`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🌐 [AI Translator Pro](https://github.com/ananyaSrivastavaa9/Translator-Pro) · [Live Demo ↗](https://ananyasrivastavaa9.github.io/Translator-Pro/)
+**Real-Time Multi-Modal Translation Dashboard**
+
+> Translation dashboard with voice, OCR, and typed input — 14 languages, runs in the browser.
+
+- Orchestrated **3 async third-party APIs** — Azure Translator, Web Speech API (voice-to-text), Tesseract.js (OCR) — into a unified multi-modal ingestion pipeline
+- Built a **localStorage caching layer** for translation history, reducing redundant API calls and eliminating repeated lookup overhead
+- Auto language detection, language swap, TTS output, and floating assistant UI
+
+`HTML` `CSS` `JavaScript` `Azure Translator API` `Web Speech API` `Tesseract.js`
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 [SmartDoc AI](https://github.com/ananyaSrivastavaa9/SmartDoc-AI) · [Live Demo ↗](https://ananyasrivastavaa9.github.io/SmartDoc-AI/)
+**Cloud Document Intelligence Dashboard**
+
+> Upload any PDF or image — get structured data extraction, AI summary, and NL queries instantly.
+
+- Integrated **Azure Document Intelligence REST API** to parse and map token-level structured data from PDFs and images in real time
+- Developed multi-stage analytics pipeline: automated AI summarization + natural language query interface on arbitrary document schemas
+
+`HTML` `CSS` `JavaScript` `Azure Document Intelligence`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔒 [Mini Intrusion Detection System](https://github.com/ananyaSrivastavaa9/Mini-IDS)
-> Lightweight real-time network threat monitor
+**Real-Time Network Threat Monitor**
 
-- Built a low-level **network packet sniffer** using raw Python sockets to detect brute force attacks and suspicious IP patterns
-- Implements behavioral state analysis with real-time alert generation and persistent log storage
-- `Python` `Network Sockets`
+> Detects brute force attacks and suspicious traffic — built from raw Python sockets up.
 
----
+- Built a **low-level raw socket packet sniffer** monitoring live network traffic for brute force signatures and suspicious IP behavioral patterns
+- Stateful IP behavioral analysis with real-time alert generation and persistent structured log storage
+
+`Python` `Network Sockets` `Packet Sniffing`
+
+</td>
+<td width="50%" valign="top">
 
 ### ⚠️ [Vulnerable Web App — Security Lab](https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo)
-> Deliberately insecure app for learning offensive security concepts
+**Cybersecurity Education Tool**
 
-- Demonstrates **SQL Injection, XSS, Broken Access Control, plaintext credential storage, and misconfigurations** — each with documented attack vectors
-- Built for controlled educational use; includes annotated screenshots of each exploit
-- `HTML` `CSS` `JavaScript` `PHP`
+> Deliberately insecure app — built to study and demonstrate real-world attack vectors.
+
+- Demonstrates **5 vulnerability classes**: SQL Injection, Stored XSS, Broken Access Control, plaintext credential storage, and server misconfiguration
+- Each exploit documented with annotated screenshots and attack walkthroughs · MIT Licensed
+
+`HTML` `CSS` `JavaScript` `PHP`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 DSA & Competitive Programming
+## 📊 DSA & Problem Solving
 
-| Platform | Profile |
-|----------|---------|
-| LeetCode | [ananyasrivastavaa](https://leetcode.com/u/ananyasrivastavaa/) |
+<div align="center">
 
-- Actively solving problems in **C++** — arrays, strings, recursion, linked lists, trees
-- Structured DSA practice tracked in [DSA-Cpp](https://github.com/ananyaSrivastavaa9) repository
-- Building consistency — solving problems daily
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ananyasrivastavaa?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/ananyasrivastavaa/)
+
+</div>
+
+- 🔁 Solving problems daily in **C++** — arrays, strings, recursion, linked lists, trees, sorting
+- 📁 Structured practice repos: DSA-Cpp · Python-Practice · C-Programming
+- 🎯 Current focus: **Two Pointers · Sliding Window · Recursion**
 
 ---
 
 ## 🏅 Certifications
 
-| Certification | Issuer |
-|---------------|--------|
-| Azure Fundamentals (AZ-900) | Microsoft |
-| Threat Landscape 3.0 | Fortinet |
-| Enterprise Design Thinking Practitioner | IBM SkillsBuild |
-| Professional Networking & Critical Thinking | HP LIFE |
-| Generative AI Studio | Google Cloud / Simplilearn |
+<div align="center">
+
+| 🏆 Certification | 🏢 Issuer | 🔵 Domain |
+|---|---|---|
+| **Azure Fundamentals (AZ-900)** | Microsoft | Cloud Computing |
+| **Threat Landscape 3.0** | Fortinet | Cybersecurity |
+| **Enterprise Design Thinking Practitioner** | IBM SkillsBuild | Systems Thinking |
+| **Generative AI Studio** | Google Cloud / Simplilearn | AI & LLMs |
+| **Professional Networking & Critical Thinking** | HP LIFE | Professional Skills |
+
+</div>
 
 ---
 
@@ -138,22 +210,39 @@ I am a first-year B.Tech student specializing in **AI & Machine Learning**, acti
 
 <div align="center">
 
-![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ananyaSrivastavaa9&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 Open to Opportunities
+## 💬 Open to Opportunities
 
-I am actively looking for **software engineering and AI/ML internships** for Summer 2026 and beyond. If you are hiring or know of relevant opportunities, feel free to reach out.
+<div align="center">
 
-📧 ananyasrivastavaa9@gmail.com · [LinkedIn](https://www.linkedin.com/in/ananyasrivastavaa8)
+**Actively seeking Software Engineering & AI/ML internships.**
+If you are hiring or know of a relevant opportunity — let's talk.
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyasrivastavaa8)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyasrivastavaa9@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
-<sub>Profile last updated: June 2026</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+*"Ship early. Learn always. Build things that matter."*
+
+![Last Updated](https://img.shields.io/badge/Last_Updated-June_2026-6E9EF7?style=flat-square)
+
 </div>
