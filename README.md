@@ -4,6 +4,8 @@
 
 ### AI & ML Engineer | Builder | Problem Solver
 
+<p><strong>B.Tech CSE (AI & ML) @ Chandigarh University (2025–2029)</strong></p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6E9EF7&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%28AI+%26+ML%29+%40+Chandigarh+University;Multi-Agent+Systems+%7C+Edge+AI+%7C+Cloud;Microsoft+Agents+League+Hackathon+2026;Building+real+things+that+solve+real+problems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyasrivastavaa8)
@@ -40,7 +42,7 @@
 
 ### ⚡ Fun Fact
 > **Shipped 6 projects + 1 hackathon in my first year of college! 🚀**
-```
+
 ---
 ## 🏆 At a Glance
 
@@ -192,7 +194,7 @@
 </div>
 
 - 🔁 Solving problems daily in **C++** — arrays, strings, recursion, linked lists, trees, sorting
-- 📁 Structured practice repos: DSA-Cpp · Python-Practice · C-Programming
+- 📁 Structured practice repos: [DSA-Cpp](https://github.com/ananyaSrivastavaa9/DSA-Cpp) · [Python-Practice](https://github.com/ananyaSrivastavaa9/Python-Practice) · [C-Programming](https://github.com/ananyaSrivastavaa9/C-Programming)
 - 🎯 Current focus: **Two Pointers · Sliding Window · Recursion**
 
 ---
