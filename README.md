@@ -4,7 +4,7 @@
 
 ### AI & ML Engineer | Multi-Agent Systems | Edge AI | Cloud
 
-Building real systems that solve real problems — grounded AI, automation, and production-minded engineering.
+I build grounded AI systems, real-time web apps, and privacy-first edge solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyasrivastavaa8)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/ananyasrivastavaa/)
@@ -15,20 +15,22 @@ Building real systems that solve real problems — grounded AI, automation, and 
 
 ---
 
-## Why I Stand Out
+## Snapshot
 
-- **B.Tech CSE (AI & ML)** at Chandigarh University, 2025–2029.
-- Built **6 shipped projects** across AI, cloud, cybersecurity, and edge computing.
-- Working on **Silent Sentinel** — a passive edge AI safety platform that runs fully on-device.
-- Built **Enterprise Learning Agents** for Microsoft Agents League 2026 with a grounded multi-agent pipeline.
-- Strong in **Python, C++, JavaScript, TensorFlow, Streamlit, Azure, and GitHub-based deployment**.
+| Area | Highlight |
+|---|---|
+| Identity | B.Tech CSE (AI & ML) at Chandigarh University, 2025–2029 |
+| Core Focus | Multi-agent systems, edge AI, cloud engineering, cybersecurity |
+| Strongest Build | Enterprise Learning Agents — grounded reasoning pipeline with traceable decisions |
+| Privacy Focus | Silent Sentinel — passive edge AI safety platform running fully on-device |
+| Engineering Habit | Daily DSA practice in C++ plus continuous project building |
 
 ---
 
 ## Featured Work
 
-### 🔮 Enterprise Learning Agents
-Microsoft Agents League Hackathon 2026 · Reasoning Agents Track
+### 🔮 Enterprise Learning Agents  
+**Microsoft Agents League Hackathon 2026 · Reasoning Agents Track**
 
 Grounded multi-agent system that generates personalized enterprise certification roadmaps with policy traceability and reduced hallucination risk.
 
@@ -38,8 +40,8 @@ Grounded multi-agent system that generates personalized enterprise certification
 
 `Python` `GPT-4o` `Azure Foundry` `GitHub Models` `Streamlit`
 
-### 🛡️ Silent Sentinel
-Edge AI Passive Safety Platform
+### 🛡️ Silent Sentinel  
+**Edge AI Passive Safety Platform**
 
 Passive background safety monitor that detects danger without user action and runs entirely on-device.
 
@@ -49,8 +51,8 @@ Passive background safety monitor that detects danger without user action and ru
 
 `Python` `TensorFlow` `CNN` `LSTM` `Pydantic` `Streamlit`
 
-### 🌐 AI Translator Pro
-Real-Time Multi-Modal Translation Dashboard
+### 🌐 AI Translator Pro  
+**Real-Time Multi-Modal Translation Dashboard**
 
 Browser-based translation app with voice, OCR, and typed input across 14 languages.
 
@@ -60,8 +62,8 @@ Browser-based translation app with voice, OCR, and typed input across 14 languag
 
 `HTML` `CSS` `JavaScript` `Azure Translator API` `Web Speech API` `Tesseract.js`
 
-### 📄 SmartDoc AI
-Cloud Document Intelligence Dashboard
+### 📄 SmartDoc AI  
+**Cloud Document Intelligence Dashboard**
 
 Upload PDFs or images and get structured extraction, AI summary, and natural-language querying.
 
@@ -69,6 +71,16 @@ Upload PDFs or images and get structured extraction, AI summary, and natural-lan
 - Built a multi-stage pipeline for summarization and document Q&A.
 
 `HTML` `CSS` `JavaScript` `Azure Document Intelligence`
+
+### 🔒 Mini Intrusion Detection System  
+**Real-Time Network Threat Monitor**
+
+Low-level packet sniffer for live traffic monitoring and brute-force detection.
+
+- Built raw socket packet capture and live IP behavioral analysis.
+- Added real-time alerting and persistent structured logs.
+
+`Python` `Network Sockets` `Packet Sniffing`
 
 ---
 
@@ -105,9 +117,13 @@ Upload PDFs or images and get structured extraction, AI summary, and natural-lan
 
 ---
 
-## Open to Opportunities
+## What I’m Building Toward
 
-Actively seeking **Software Engineering** and **AI/ML internships**.
+I’m aiming for software engineering and AI/ML roles where I can build products that are technically deep, user-focused, and reliable at scale.
+
+---
+
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/ananyasrivastavaa8) · [GitHub](https://github.com/ananyaSrivastavaa9) · [LeetCode](https://leetcode.com/u/ananyasrivastavaa/) · [Email](mailto:ananyasrivastavaa9@gmail.com)
 
