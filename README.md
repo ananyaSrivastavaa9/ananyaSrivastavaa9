@@ -34,6 +34,7 @@ class Ananya:
     def fun_fact(self):
         return "Shipped 6 projects + 1 hackathon in my first year of college 🚀"
 
+```
 ---
 
 ## 🏆 At a Glance
