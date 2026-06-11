@@ -93,9 +93,9 @@ class Ananya:
 
 > Grounded multi-agent LLM system generating personalized enterprise certification roadmaps — zero hallucinations, full policy traceability.
 
-- Architected a **deterministic 4-agent cascade** — Foundry IQ → Sage Auditor → Chronos Scheduler → Surreal UI — binding every decision to a real enterprise JSON policy before LLM elaboration
-- Eliminated factual drift via **Microsoft Foundry IQ knowledge retrieval gate** with visible citation strings per output
-- Engineered production-grade fault isolation: API timeouts, bounded token budgets, retry logic, and session-safe caching across all pipeline stages
+- Architected a **deterministic 4-agent cascade** — Foundry IQ → Sage Auditor → Chronos Scheduler → Surreal UI — binding every decision to a real enterprise JSON policy before LLM elaboration.
+- Eliminated factual drift via **Microsoft Foundry IQ knowledge retrieval gate** with visible citation strings per output.
+- Engineered production-grade fault isolation: API timeouts, bounded token budgets, retry logic, and session-safe caching across all pipeline stages.
 
 `Python` `GPT-4o` `Azure Foundry` `GitHub Models` `Streamlit`
 
@@ -107,9 +107,9 @@ class Ananya:
 
 > Passive background safety monitor — detects danger without any user action. Runs entirely on-device.
 
-- Designed a **3-pillar concurrent processing architecture**: CNN acoustic stress analysis on spectrograms + LSTM fall/gait telemetry on IMU data + Dead Man's Switch FSM
-- Implemented **Pydantic V2 strict config validation**, a thread-safe Observer Pattern event bus, and structured JSON telemetry logging
-- Privacy-first edge deployment — all inference stays on-device, zero cloud dependency, zero data leakage
+- Designed a **3-pillar concurrent processing architecture**: CNN acoustic stress analysis on spectrograms + LSTM fall/gait telemetry on IMU data + Dead Man's Switch FSM.
+- Implemented **Pydantic V2 strict config validation**, a thread-safe Observer Pattern event bus, and structured JSON telemetry logging.
+- Privacy-first edge deployment — all inference stays on-device, zero cloud dependency, zero data leakage.
 
 `Python` `TensorFlow` `CNN` `LSTM` `Pydantic` `Streamlit`
 
@@ -118,27 +118,27 @@ class Ananya:
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 [AI Translator Pro](https://github.com/ananyaSrivastavaa9/Translator-Pro) · [Live Demo ↗](https://ananyasrivastavaa9.github.io/Translator-Pro/)
+### 🌐 [AI Translator Pro](https://github.com/ananyaSrivastavaa9/Translator-Pro)
 **Real-Time Multi-Modal Translation Dashboard**
 
 > Translation dashboard with voice, OCR, and typed input — 14 languages, runs in the browser.
 
-- Orchestrated **3 async third-party APIs** — Azure Translator, Web Speech API (voice-to-text), Tesseract.js (OCR) — into a unified multi-modal ingestion pipeline
-- Built a **localStorage caching layer** for translation history, reducing redundant API calls and eliminating repeated lookup overhead
-- Auto language detection, language swap, TTS output, and floating assistant UI
+- Orchestrated **3 async third-party APIs** — Azure Translator, Web Speech API (voice-to-text), Tesseract.js (OCR) — into a unified multi-modal ingestion pipeline.
+- Built a **localStorage caching layer** for translation history, reducing redundant API calls and eliminating repeated lookup overhead.
+- Auto language detection, language swap, TTS output, and floating assistant UI.
 
 `HTML` `CSS` `JavaScript` `Azure Translator API` `Web Speech API` `Tesseract.js`
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 [SmartDoc AI](https://github.com/ananyaSrivastavaa9/SmartDoc-AI) · [Live Demo ↗](https://ananyasrivastavaa9.github.io/SmartDoc-AI/)
+### 📄 [SmartDoc AI](https://github.com/ananyaSrivastavaa9/SmartDoc-AI)
 **Cloud Document Intelligence Dashboard**
 
 > Upload any PDF or image — get structured data extraction, AI summary, and NL queries instantly.
 
-- Integrated **Azure Document Intelligence REST API** to parse and map token-level structured data from PDFs and images in real time
-- Developed multi-stage analytics pipeline: automated AI summarization + natural language query interface on arbitrary document schemas
+- Integrated **Azure Document Intelligence REST API** to parse and map token-level structured data from PDFs and images in real time.
+- Developed multi-stage analytics pipeline: automated AI summarization + natural language query interface on arbitrary document schemas.
 
 `HTML` `CSS` `JavaScript` `Azure Document Intelligence`
 
@@ -152,8 +152,8 @@ class Ananya:
 
 > Detects brute force attacks and suspicious traffic — built from raw Python sockets up.
 
-- Built a **low-level raw socket packet sniffer** monitoring live network traffic for brute force signatures and suspicious IP behavioral patterns
-- Stateful IP behavioral analysis with real-time alert generation and persistent structured log storage
+- Built a **low-level raw socket packet sniffer** monitoring live network traffic for brute force signatures and suspicious IP behavioral patterns.
+- Stateful IP behavioral analysis with real-time alert generation and persistent structured log storage.
 
 `Python` `Network Sockets` `Packet Sniffing`
 
@@ -165,8 +165,8 @@ class Ananya:
 
 > Deliberately insecure app — built to study and demonstrate real-world attack vectors.
 
-- Demonstrates **5 vulnerability classes**: SQL Injection, Stored XSS, Broken Access Control, plaintext credential storage, and server misconfiguration
-- Each exploit documented with annotated screenshots and attack walkthroughs · MIT Licensed
+- Demonstrates **5 vulnerability classes**: SQL Injection, Stored XSS, Broken Access Control, plaintext credential storage, and server misconfiguration.
+- Each exploit documented with annotated screenshots and attack walkthroughs · MIT Licensed.
 
 `HTML` `CSS` `JavaScript` `PHP`
 
@@ -184,9 +184,9 @@ class Ananya:
 
 </div>
 
-- 🔁 Solving problems daily in **C++** — arrays, strings, recursion, linked lists, trees, sorting
-- 📁 Structured practice repos: DSA-Cpp · Python-Practice · C-Programming
-- 🎯 Current focus: **Two Pointers · Sliding Window · Recursion**
+- 🔁 Solving problems daily in **C++** — arrays, strings, recursion, linked lists, trees, sorting.
+- 📁 Structured practice repos: DSA-Cpp · Python-Practice · C-Programming.
+- 🎯 Current focus: **Two Pointers · Sliding Window · Recursion**.
 
 ---
 
@@ -227,7 +227,7 @@ class Ananya:
 
 <div align="center">
 
-**Actively seeking Software Engineering & AI/ML internships.**
+**Actively seeking Software Engineering & AI/ML internships.**  
 If you are hiring or know of a relevant opportunity — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyasrivastavaa8)
