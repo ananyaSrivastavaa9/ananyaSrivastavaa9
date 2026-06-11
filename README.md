@@ -23,8 +23,9 @@
 | **Hackathon** | Competing in **Microsoft Agents League 2026** *(Reasoning Agents Track)* |
 | **Education** | **B.Tech CSE (AI & ML)** · Chandigarh University *(2025–2029)* |
 | **Location** | Uttar Pradesh, India |
-| **Goal** | SWE / AI Internship |
+| **Goal** | Software Engineering & AI/ML Internships • Long-term goal: Building large-scale AI products |
 | **Highlights** | Built multiple AI, cloud, and security projects while learning DSA and core CS fundamentals |
+| **Current Focus** | DSA, AI Engineering, and shipping production-style projects | 
 
 ## 💼 Looking For
 
@@ -198,7 +199,7 @@ Deliberately insecure app built to study and demonstrate real-world attack vecto
 
 ## 💬 Open to Opportunities
 
-Actively seeking Software Engineering and AI/ML internships.
+Actively seeking Software Engineering and AI/ML internship opportunities where I can contribute, learn from experienced engineers, and build impactful products.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananyasrivastavaa8)
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananyasrivastavaa9@gmail.com)
