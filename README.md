@@ -1,118 +1,75 @@
 # Hi there 👋, I'm Ananya Srivastava
 
-🎓 B.Tech CSE (AI & ML) student  
-💻 Strong foundation in C, C++ & Python with focus on problem solving  
-🚀 Focused on building core programming skills and logical thinking  
+<p align="left">
+  <img src="https://img.shields.io/badge/B.Tech-Computer%20Science%20(AI%20%26%20ML)-blue?style=for-the-badge&logo=education" alt="Degree" />
+  <img src="https://img.shields.io/badge/Focus-Multi--Agent%20Systems%20%26%20Cloud%20AI-orange?style=for-the-badge&logo=openai" alt="Focus" />
+  <img src="https://img.shields.io/badge/LeetCode-Solving%20Daily-yellow?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+</p>
+
+I am an aspiring **Software Engineer and AI-ML Developer** pursuing my B.Tech at Chandigarh University. I specialize in building deterministic multi-agent orchestration pipelines, production-grade cloud integrations, and edge-optimized intelligent architectures. 
+
+My career goal is to design scalable, fault-tolerant AI infrastructure and core systems at engineering-first companies like **Google** and **Microsoft**.
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Technical Inventory & Toolchains
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode" />
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, C, JavaScript (ES6+), HTML5/CSS3, PHP |
+| **AI & Multi-Agent Frameworks** | Microsoft Foundry IQ, GPT-4o, OpenAI SDK, Multi-Agent Reasoning Chains, TensorFlow, LSTM, CNNs |
+| **Cloud & Infrastructure** | Microsoft Azure Foundry, Azure Translator API, Azure Document Intelligence, GitHub Models |
+| **Core Software Engineering** | Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP), Network Sockets, System Architecture |
+| **Developer Tools** | Git, GitHub, VS Code, Streamlit, Linux/Unix Terminal |
+
+---
+
+## 🚀 Featured Flagship Projects
+
+### 🔮 1. Daily Nixtio — Enterprise Learning Agents
+*Architected for the Microsoft Agents League Hackathon 2026 (Reasoning Agents Track)*
+*   **The Architecture:** Developed a deterministic **4-agent reasoning cascade** (Supervisor, Planner, Policy, and Memory agents) powered by `gpt-4o` to dynamically synthesize 5–7 day enterprise learning arcs.
+*   **Enterprise Grounding:** Utilized **Microsoft Foundry IQ Engine** to bind agent outputs directly to an authoritative `corporate_learning_policy.json` file, entirely eliminating generative hallucinations.
+*   **Production Guardrails:** Implemented rigid token-budgeting, capacity-enforcement state loops, and automatic API retry mechanisms to handle high-concurrency simulation stress testing.
+*   **Tech Stack:** Python, Streamlit (Premium UI), OpenAI SDK, Microsoft Foundry IQ, GitHub Models, `python-dotenv`.
+*   [📂 Explore the Codebase](https://github.com/ananyaSrivastavaa9/enterprise-learning-agents)
+
+### 📄 2. SmartDoc-AI — High-Throughput Document Ingestion Dashboard
+*   **The Core:** Built a cloud-native intelligent pipeline to parse, extract, and cleanly map structured token data from high-volume complex PDFs and arbitrary document layouts.
+*   **Advanced Features:** Integrated a multi-stage data analytics suite alongside an un-indexed natural language query parser allowing users to text-chat directly with their documents.
+*   **Performance:** Drastically accelerated traditional manual data extraction turnarounds by calling async REST endpoints via native asynchronous JavaScript.
+*   **Tech Stack:** JavaScript (Vanilla ES6), HTML5 (Glassmorphism design), CSS3, Azure Document Intelligence REST API.
+*   [📂 Code Repository](https://github.com/ananyaSrivastavaa9/SmartDoc-AI) | [🌐 Live Production Demo](https://ananyasrivastavaa9.github.io/SmartDoc-AI/)
+
+### 🌐 3. AI Translator Pro — Asynchronous Multi-Modal Dashboard
+*   **The Engine:** Engineered an asynchronous web application supporting 14+ languages featuring parallelized execution patterns and instant language-swapping logic.
+*   **Multi-Modal Ingestion:** Orchestrated 3 distinct third-party layers into one interface: **Azure Translator REST API** for text translation, **Web Speech API** for voice-to-text, and **Tesseract.js** for image matrix OCR extraction.
+*   **State Optimization:** Programmed a highly optimized local query caching parser using browser `localStorage` to reduce redundant cloud API lookups and structural runtime latency.
+*   **Tech Stack:** JavaScript, Tesseract.js, Microsoft Azure Translator API, Web Speech API, LocalStorage, GitHub Pages.
+*   [📂 Code Repository](https://github.com/ananyaSrivastavaa9/Translator-Pro) | [🌐 Live Production Demo](https://ananyasrivastavaa9.github.io/Translator-Pro/)
+
+---
+
+## 📊 Engineering Metrics & Coding Profiles
+
+*   **LeetCode:** [ananyasrivastavaaa](https://leetcode.com/u/ananyasrivastavaa/) — Focus on Arrays, Strings, Trees, and Graph Traversal algorithms.
+*   **Open Source Contributions:** Actively building and refining autonomous agent logic and systems optimization.
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=transparent&hide_border=true" alt="Ananya's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
-- Data Structures & Algorithms (DSA)  
-- Core programming concepts  
-- Fundamentals of AI & Machine Learning  
+## 📜 Verified Professional Credentials
+*   **Microsoft:** Azure Fundamentals Certification
+*   **Fortinet:** Threat Landscape 3.0
+*   **IBM:** SkillsBuild Enterprise Design Thinking Practitioner
+*   **Google Cloud / Simplilearn:** Generative AI Studio
 
 ---
 
-## 🚀 Projects
-
-### AI Translator Pro — Translation Dashboard  
-- Developed a fully responsive AI-powered translation dashboard with real-time translation, auto language detection, and language swap functionality  
-- Integrated multiple input methods including voice-to-text (Web Speech API) and OCR-based image text extraction (Tesseract.js)  
-- Implemented features like text-to-speech, translation history with search, and localStorage-based data persistence  
-- Designed a clean, interactive UI with smooth effects and enhanced user experience using a floating assistant    
-
-**Tech:** HTML, CSS, JavaScript, Microsoft Azure Translator API, Web Speech API, Tesseract.js, localStorage  
-
-🔗 [GitHub Repo](https://github.com/ananyasrivastavaa9/Translator-Pro)  
-🌐 [Live Demo](https://ananyasrivastavaa9.github.io/Translator-Pro/)
-
-### SmartDoc-AI  
-- Built a web-based AI dashboard to extract and analyze structured data from documents  
-- Implemented real-time text extraction and document preview features  
-- Integrated Azure Document Intelligence for accurate data processing  
-
-**Tech:** HTML, CSS, JavaScript, Azure Document Intelligence  
-🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/SmartDoc-AI)   
-🌐 [Live Demo](https://ananyasrivastavaa9.github.io/SmartDoc-AI/)
-
-### Student Record Management System  
-- Developed a console-based application to manage student records  
-- Implemented operations like add, update, delete, and search  
-- Utilized STL vectors for efficient data handling  
-
-**Tech:** C++, STL (Vector)  
-🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/cpp-mini-projects)
-
-### Mini Intrusion Detection System (IDS)  
-- Built a lightweight IDS to monitor network activity  
-- Detected suspicious patterns and potential threats  
-- Implemented basic alert mechanisms for security monitoring  
-
-**Tech:** Python  
-🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Mini-IDS)
-
-### Vulnerable Web Application (Security Lab)  
-- Designed a vulnerable web app to demonstrate cybersecurity flaws  
-- Simulated attacks like SQL Injection and Cross-Site Scripting (XSS)  
-- Created for educational and security testing purposes  
-
-**Tech:** HTML, CSS, JavaScript, PHP  
-🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Vulnerable_Web_App_demo)
-
-
-### Traffic Violation & Penalty Management System  
-- Developed a system to manage traffic violations and penalties  
-- Implemented fine calculation and record tracking  
-- Used file handling for persistent data storage  
-
-**Tech:** C, File Handling  
-🔗 [GitHub Repo](https://github.com/ananyaSrivastavaa9/Nimbus_Project_Ananya_50)
-
----
-
-## 📚 Practice & Learning
-
-- **DSA-Cpp**  
-  Structured Data Structures & Algorithms practice in C++  
-
-- **Python Programming Practice**  
-  Daily Python learning with chapter-wise examples  
-
-- **C Programming**  
-  Core concepts and problem-based practice in C  
-
----
-
-## 🧩 Coding Profiles
-- LeetCode: https://leetcode.com/u/ananyasrivastavaa/
-
----
-
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/ananyasrivastavaa8
-
----
-
-## 📊 Profile Overview
-
-![Profile Views](https://komarev.com/ghpvc/?username=ananyaSrivastavaa9&label=Profile%20views&color=0e75b6&style=flat)
-
-- Actively practicing DSA  
-- Building consistency in coding  
-- Focused on continuous learning and improvement  
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ananyaSrivastavaa9&theme=tokyo-night&hide_border=true" />
-</p>
+## 📫 Let's Collaborate
+*   **LinkedIn:** [linkedin.com/in/ananyasrivastavaa8](https://www.linkedin.com/in/ananyasrivastavaa8)
+*   **Email:** ananyasrivastavaa9@gmail.com
