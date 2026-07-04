@@ -198,7 +198,8 @@ Deliberately insecure app built to study and demonstrate real-world attack vecto
 
 ## 🏅 Certifications
 
-- **Azure Fundamentals (AZ-900)** — Microsoft  
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — Microsoft  
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)** — Microsoft  
 - **Threat Landscape 3.0** — Fortinet  
 - **Enterprise Design Thinking Practitioner** — IBM SkillsBuild  
 - **Generative AI Studio** — Google Cloud / Simplilearn  
