@@ -19,7 +19,6 @@
 
 | Personal Details | |
 | :--- | :--- |
-| **Currently** | Building **Silent Sentinel** — a passive edge AI safety platform |
 | **Hackathon** | Competing in **Microsoft Agents League 2026** *(Reasoning Agents Track)* |
 | **Education** | **B.Tech CSE (AI & ML)** · Chandigarh University *(2025–2029)* |
 | **Location** | Uttar Pradesh, India |
