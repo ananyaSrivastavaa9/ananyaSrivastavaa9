@@ -151,8 +151,6 @@ A real-time multi-modal translation dashboard across 14 languages, right in the 
 
 ## GitHub Analytics
 
-## GitHub Analytics
-
 <div align="center">
 
 <img src="https://github-readme-stats-one-xi-31.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
