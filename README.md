@@ -151,17 +151,17 @@ A real-time multi-modal translation dashboard across 14 languages, right in the 
 
 ## GitHub Analytics
 
+## GitHub Analytics
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
+<img src="https://github-readme-stats-one-xi-31.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyaSrivastavaa9&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://streak-stats.demolab.com?user=ananyaSrivastavaa9&theme=tokyonight&hide_border=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+<img src="https://github-readme-stats-one-xi-31.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 
 </div>
-
-> **Note:** The `github-readme-stats` public Vercel instance is frequently rate-limited/down (this is a widely reported issue, not a bug in your profile). If the cards above don't render for visitors, fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and deploy your own instance on Vercel — takes ~5 minutes and fixes it permanently.
 
 ---
 
