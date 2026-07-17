@@ -155,7 +155,11 @@ A real-time multi-modal translation dashboard across 14 languages, right in the 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyaSrivastavaa9&theme=tokyonight&hide_border=true" height="170" />
+<img src="https://github-readme-stats-one-xi-31.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
+
+<img src="https://streak-stats.demolab.com?user=ananyaSrivastavaa9&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats-one-xi-31.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
 
 ![Followers](https://img.shields.io/github/followers/ananyaSrivastavaa9?style=for-the-badge&color=blueviolet&label=Followers)
 
