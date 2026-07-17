@@ -17,20 +17,21 @@
 
 ## About Me
 
-| | |
-| :--- | :--- |
-| 🎓 **Education** | B.Tech CSE (AI & ML), Chandigarh University *(2025–2029)* |
-| 🧑‍💻 **Currently** | Building agentic AI systems (ASTOR) & sharpening DSA in C++ |
-| 📍 **Location** | Uttar Pradesh, India |
-| 🎯 **Looking for** | Software Engineering & AI/ML internships |
-| 🔭 **Focus areas** | Agentic systems, retrieval-augmented reasoning, edge AI, secure-by-design engineering |
+I build production-style AI systems — retrieval pipelines, multi-agent orchestration, and edge AI safety tools that stay grounded and fault-tolerant under real constraints. Right now I'm shipping **ASTOR**, a retrieval-first coding agent, and sharpening DSA fundamentals in C++.
+
+<div align="center">
+
+🎓 B.Tech CSE (AI & ML), Chandigarh University *(2025–2029)* &nbsp;·&nbsp; 📍 Uttar Pradesh, India &nbsp;·&nbsp; 🎯 Open to SWE & AI/ML Internships
+
+</div>
 
 ---
 
 ## Achievements
 
-- 🥇 **Microsoft Agents League 2026** — Completed: built and shipped a production-style 5-agent reasoning pipeline (Reasoning Agents Track)
 - 🏆 **CodeStrike 2026** — Ranked **#57 globally** with a perfect **100/100** score, competitive programming championship hosted on Unstop by the Bytebattle Global Community
+- 🥇 **Microsoft Agents League 2026** — Completed: built and shipped a production-style 5-agent reasoning pipeline (Reasoning Agents Track)
+- 🥈 **AI & ML Club Weekly Coding Challenge (Week 1)** — 2nd Runner-Up out of all participants, inaugural edition by Chandigarh University AI/ML Club × byteXL *(Jul 2026)*
 - 🤝 **HackWithUP 2025** — Event coordinator & participant, 30-hour Agentic AI Hackathon
 
 ---
@@ -53,6 +54,7 @@
 ![OpenAI](https://img.shields.io/badge/GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
@@ -153,11 +155,9 @@ A real-time multi-modal translation dashboard across 14 languages, right in the 
 
 <div align="center">
 
-<img src="https://github-readme-stats-one-xi-31.vercel.app/api?username=ananyaSrivastavaa9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananyaSrivastavaa9&theme=tokyonight&hide_border=true" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=ananyaSrivastavaa9&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-stats-one-xi-31.vercel.app/api/top-langs/?username=ananyaSrivastavaa9&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+![Followers](https://img.shields.io/github/followers/ananyaSrivastavaa9?style=for-the-badge&color=blueviolet&label=Followers)
 
 </div>
 
